@@ -7,7 +7,6 @@
 /root/IdeaProjects/Demo1/exampleApp/src/main/java/spittr/web/SpittleController.java
 /root/IdeaProjects/Demo1/exampleApp/src/main/java/spittr/Spittle.java
 /root/IdeaProjects/Demo1/exampleApp/src/main/java/spittr/data/SpitterRepository.java
-/root/IdeaProjects/Demo1/exampleApp/src/main/java/spittr/config/WebConfig.java
 /root/IdeaProjects/Demo1/exampleApp/src/main/java/spittr/config/RootConfig.java
 /root/IdeaProjects/Demo1/exampleApp/src/main/java/spittr/config/SpittrWebAppInitializer.java
 /root/IdeaProjects/Demo1/exampleApp/src/main/java/spittr/config/DataConfig.java
