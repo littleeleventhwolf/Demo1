@@ -45,3 +45,10 @@
 0:0:0:0:0:0:0:1 - - [07/Sep/2016:20:47:30 +0800] "GET / HTTP/1.1" 500 6026 http-bio-9090-exec-1 64
 0:0:0:0:0:0:0:1 - - [07/Sep/2016:20:50:55 +0800] "GET / HTTP/1.1" 500 6026 http-bio-9090-exec-1 62
 0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:00:51 +0800] "GET / HTTP/1.1" 500 6026 http-bio-9090-exec-1 62
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:13:05 +0800] "GET / HTTP/1.1" 500 6026 http-bio-9090-exec-1 63
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:19:40 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-1 59
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:19:40 +0800] "GET /resources/style.css HTTP/1.1" 200 378 http-bio-9090-exec-2 98
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:19:47 +0800] "GET /spittles HTTP/1.1" 200 990 http-bio-9090-exec-3 532
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:19:47 +0800] "GET /resources/style.css;jsessionid=271F7A48CB814EA3C2CEB597FA2914C7 HTTP/1.1" 200 378 http-bio-9090-exec-4 2
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:19:54 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-5 53
+0:0:0:0:0:0:0:1 - - [07/Sep/2016:21:20:36 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-6 139
