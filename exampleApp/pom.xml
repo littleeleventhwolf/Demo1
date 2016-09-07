@@ -141,6 +141,7 @@
     <dependency>
       <groupId>org.codehaus.jackson</groupId>
       <artifactId>jackson-mapper-asl</artifactId>
+      <scope>provided</scope>
       <version>1.9.13</version>
     </dependency>
     <!-- fileupload -->
