@@ -18,5 +18,7 @@ public class HomeControllerTest {
         MockMvc mockMvc = standaloneSetup(controller).build();
         mockMvc.perform(get("/"))   // get path '/'
                 .andExpect(view().name("home"));    // expect 'home'
+        mockMvc.perform(get("/homepage"))   // get path '/homepage'
+                .andExpect(view().name("home"));
     }
 }
