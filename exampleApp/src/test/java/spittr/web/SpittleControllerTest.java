@@ -15,7 +15,6 @@ import org.springframework.web.servlet.view.InternalResourceView;
 
 import spittr.Spittle;
 import spittr.data.SpittleRepository;
-import spittr.web.SpittleController;
 
 public class SpittleControllerTest {
 
