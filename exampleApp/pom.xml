@@ -159,6 +159,12 @@
       <artifactId>commons-codec</artifactId>
       <version>1.9</version>
     </dependency>
+    <!-- servlet api -->
+    <dependency>
+      <groupId>javax.servlet</groupId>
+      <artifactId>javax.servlet-api</artifactId>
+      <version>3.1.0</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>demo1ArtifactId</finalName>
