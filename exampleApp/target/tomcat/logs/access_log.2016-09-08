@@ -32,3 +32,17 @@
 127.0.0.1 - - [08/Sep/2016:14:24:45 +0800] "POST /spittles HTTP/1.1" 302 - http-bio-9090-exec-8 28
 127.0.0.1 - - [08/Sep/2016:14:24:45 +0800] "GET /spittles HTTP/1.1" 200 946 http-bio-9090-exec-10 7
 127.0.0.1 - - [08/Sep/2016:14:24:49 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-1 3
+127.0.0.1 - - [08/Sep/2016:14:29:09 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-1 190
+127.0.0.1 - - [08/Sep/2016:14:29:09 +0800] "GET /resources/style.css HTTP/1.1" 200 521 http-bio-9090-exec-2 15
+127.0.0.1 - - [08/Sep/2016:14:29:20 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-3 19
+127.0.0.1 - - [08/Sep/2016:14:29:26 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-4 4
+127.0.0.1 - - [08/Sep/2016:14:29:43 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-6 564
+127.0.0.1 - - [08/Sep/2016:14:29:43 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-7 17
+127.0.0.1 - - [08/Sep/2016:14:31:50 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-1 804
+127.0.0.1 - - [08/Sep/2016:14:31:50 +0800] "GET /resources/style.css HTTP/1.1" 304 - http-bio-9090-exec-2 17
+127.0.0.1 - - [08/Sep/2016:14:32:48 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-1 179
+127.0.0.1 - - [08/Sep/2016:14:32:57 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-3 34
+127.0.0.1 - - [08/Sep/2016:14:33:11 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-4 536
+127.0.0.1 - - [08/Sep/2016:14:44:03 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-1 167
+127.0.0.1 - - [08/Sep/2016:14:44:08 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-2 33
+127.0.0.1 - - [08/Sep/2016:14:44:28 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-3 561
