@@ -46,6 +46,7 @@
 127.0.0.1 - - [08/Sep/2016:14:44:03 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-1 167
 127.0.0.1 - - [08/Sep/2016:14:44:08 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-2 33
 127.0.0.1 - - [08/Sep/2016:14:44:28 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-3 561
+<<<<<<< Updated upstream
 0:0:0:0:0:0:0:1 - - [08/Sep/2016:19:44:21 +0800] "GET / HTTP/1.1" 200 289 http-bio-9090-exec-1 539
 0:0:0:0:0:0:0:1 - - [08/Sep/2016:19:44:21 +0800] "GET /resources/style.css HTTP/1.1" 200 521 http-bio-9090-exec-2 5
 0:0:0:0:0:0:0:1 - - [08/Sep/2016:19:45:42 +0800] "GET /$%7BregisterUrl%7D HTTP/1.1" 404 987 http-bio-9090-exec-4 2
@@ -70,3 +71,14 @@
 0:0:0:0:0:0:0:1 - - [08/Sep/2016:19:54:43 +0800] "POST /spitter/register HTTP/1.1" 200 1280 http-bio-9090-exec-4 102
 0:0:0:0:0:0:0:1 - - [08/Sep/2016:19:55:15 +0800] "POST /spitter/register HTTP/1.1" 302 - http-bio-9090-exec-5 19
 0:0:0:0:0:0:0:1 - - [08/Sep/2016:19:55:15 +0800] "GET /spitter/sdsdfsdf HTTP/1.1" 200 281 http-bio-9090-exec-6 66
+=======
+127.0.0.1 - - [08/Sep/2016:15:20:05 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-1 152
+127.0.0.1 - - [08/Sep/2016:15:20:05 +0800] "GET /resources/style.css HTTP/1.1" 304 - http-bio-9090-exec-2 286
+127.0.0.1 - - [08/Sep/2016:15:28:42 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-1 472
+127.0.0.1 - - [08/Sep/2016:15:28:42 +0800] "GET /resources/style.css HTTP/1.1" 304 - http-bio-9090-exec-2 50
+127.0.0.1 - - [08/Sep/2016:15:49:32 +0800] "GET / HTTP/1.1" 200 295 http-bio-9090-exec-1 148
+127.0.0.1 - - [08/Sep/2016:15:49:32 +0800] "GET /resources/style.css HTTP/1.1" 304 - http-bio-9090-exec-2 11
+127.0.0.1 - - [08/Sep/2016:15:49:34 +0800] "GET /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-3 40
+127.0.0.1 - - [08/Sep/2016:15:49:52 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-4 815
+127.0.0.1 - - [08/Sep/2016:15:49:54 +0800] "POST /spitter/register HTTP/1.1" 200 571 http-bio-9090-exec-6 22
+>>>>>>> Stashed changes
