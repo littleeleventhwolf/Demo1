@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:21:56 +0800] "GET / HTTP/1.1" 200 286 http-bio-9090-exec-1 605
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:21:56 +0800] "GET /resources/style.css HTTP/1.1" 200 521 http-bio-9090-exec-2 13
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:22:01 +0800] "GET /spitter/register HTTP/1.1" 200 920 http-bio-9090-exec-3 147
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:22:21 +0800] "POST /spitter/register HTTP/1.1" 302 - http-bio-9090-exec-4 205
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:22:21 +0800] "GET /spitter/hushua HTTP/1.1" 200 243 http-bio-9090-exec-5 103
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:22:35 +0800] "GET / HTTP/1.1" 200 286 http-bio-9090-exec-6 2
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:22:37 +0800] "GET /spittles HTTP/1.1" 200 623 http-bio-9090-exec-7 106
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:22:43 +0800] "POST /spittles HTTP/1.1" 302 - http-bio-9090-exec-8 11
+0:0:0:0:0:0:0:1 - - [18/Sep/2016:16:22:43 +0800] "GET /spittles HTTP/1.1" 200 903 http-bio-9090-exec-9 5
